@@ -17,7 +17,7 @@ Official SDK packages for [QPay V2 API](https://merchant.qpay.mn) — Mongolia's
 | Dart | [qpay-dart](https://github.com/qpay-sdk/qpay-dart) | [pub.dev](https://pub.dev/packages/qpay) |
 | Rust | [qpay-rust](https://github.com/qpay-sdk/qpay-rust) | [crates.io](https://crates.io/crates/qpay) |
 | .NET | [qpay-dotnet](https://github.com/qpay-sdk/qpay-dotnet) | [NuGet](https://www.nuget.org/packages/QPay/) |
-| Java | [qpay-java](https://github.com/qpay-sdk/qpay-java) | [Maven Central](https://central.sonatype.com/artifact/mn.qpay/qpay-java) |
+| Java | [qpay-java](https://github.com/qpay-sdk/qpay-java) | [Maven Central](https://central.sonatype.com/artifact/io.github.qpay-sdk/qpay-java) |
 | Swift | [qpay-swift](https://github.com/qpay-sdk/qpay-swift) | [SPM](https://github.com/qpay-sdk/qpay-swift) |
 | cURL | [qpay-curl](https://github.com/qpay-sdk/qpay-curl) | — |
 
