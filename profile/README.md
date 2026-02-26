@@ -7,9 +7,9 @@ Official SDK packages for [QPay V2 API](https://merchant.qpay.mn) — Mongolia's
 | Language | Package | Registry |
 |----------|---------|----------|
 | Go | [qpay-go](https://github.com/qpay-sdk/qpay-go) | [pkg.go.dev](https://pkg.go.dev/github.com/qpay-sdk/qpay-go) |
-| JavaScript | [qpay-js](https://github.com/qpay-sdk/qpay-js) | [npm](https://www.npmjs.com/package/qpay-sdk) |
-| Python | [qpay-py](https://github.com/qpay-sdk/qpay-py) | [PyPI](https://pypi.org/project/qpay-sdk/) |
-| PHP | [qpay-php](https://github.com/qpay-sdk/qpay-php) | [Packagist](https://packagist.org/packages/qpay-sdk/qpay) |
+| JavaScript | [qpay-js](https://github.com/qpay-sdk/qpay-js) | [npm](https://www.npmjs.com/package/qpay-js) |
+| Python | [qpay-py](https://github.com/qpay-sdk/qpay-py) | [PyPI](https://pypi.org/project/qpay-py/) |
+| PHP | [qpay-php](https://github.com/qpay-sdk/qpay-php) | [Packagist](https://packagist.org/packages/usukhbayar/qpay-php) |
 | Ruby | [qpay-ruby](https://github.com/qpay-sdk/qpay-ruby) | [RubyGems](https://rubygems.org/gems/qpay-sdk) |
 | Dart | [qpay-dart](https://github.com/qpay-sdk/qpay-dart) | [pub.dev](https://pub.dev/packages/qpay) |
 | Rust | [qpay-rust](https://github.com/qpay-sdk/qpay-rust) | [crates.io](https://crates.io/crates/qpay) |
@@ -22,9 +22,9 @@ Official SDK packages for [QPay V2 API](https://merchant.qpay.mn) — Mongolia's
 
 ```bash
 # Install (pick your language)
-npm install qpay-sdk          # JavaScript
-pip install qpay-sdk           # Python
-composer require qpay-sdk/qpay # PHP
+npm install qpay-js            # JavaScript
+pip install qpay-py            # Python
+composer require usukhbayar/qpay-php # PHP
 gem install qpay-sdk           # Ruby
 dart pub add qpay              # Dart
 cargo add qpay                 # Rust
